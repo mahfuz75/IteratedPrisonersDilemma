@@ -1,0 +1,691 @@
+Experiment ID                :  probstrat
+Problem Type                 :  Probe
+Data Input File Name         :  NA
+Number of Runs               :  50
+Generations per Run          :  10
+Population Size              :  100
+Selection Method             :  2
+Fitness Scaling Type         :  0
+Min or Max Fitness           :  max
+Crossover Type               :  1
+Crossover Rate               :  1.0
+Mutation Type                :  1
+Mutation Rate                :  1.0E-4
+Random Number Seed           :  75982
+Number of Genes/Points       :  1
+Size of Genes                :  10
+
+
+ R   1		 G   0		 BestInG     470.143		 AvgOfG     445.291		 StDv       7.525		 95% ConfInt     443.787    446.796
+ R   1		 G   1		 BestInG     470.143		 AvgOfG     447.486		 StDv       4.352		 95% ConfInt     446.615    448.356
+ R   1		 G   2		 BestInG       470.0		 AvgOfG     447.937		 StDv       4.062		 95% ConfInt     447.125     448.75
+ R   1		 G   3		 BestInG     464.429		 AvgOfG     448.354		 StDv       3.917		 95% ConfInt     447.571    449.138
+ R   1		 G   4		 BestInG     464.429		 AvgOfG     449.214		 StDv        4.69		 95% ConfInt     448.276    450.152
+ R   1		 G   5		 BestInG     464.571		 AvgOfG     449.701		 StDv        5.12		 95% ConfInt     448.678    450.725
+ R   1		 G   6		 BestInG     463.857		 AvgOfG     449.904		 StDv        4.92		 95% ConfInt      448.92    450.888
+ R   1		 G   7		 BestInG     464.429		 AvgOfG     451.736		 StDv       6.205		 95% ConfInt     450.495    452.977
+ R   1		 G   8		 BestInG     464.571		 AvgOfG      453.17		 StDv        6.48		 95% ConfInt     451.874    454.466
+ R   1		 G   9		 BestInG     464.571		 AvgOfG      456.28		 StDv       6.413		 95% ConfInt     454.997    457.563
+1      0 0000100111   RawFitness
+               39.0      470.143
+
+ R   2		 G   0		 BestInG     470.143		 AvgOfG     445.269		 StDv       6.828		 95% ConfInt     443.903    446.634
+ R   2		 G   1		 BestInG     470.429		 AvgOfG     447.513		 StDv       6.833		 95% ConfInt     446.146    448.879
+ R   2		 G   2		 BestInG     470.429		 AvgOfG     448.946		 StDv       5.064		 95% ConfInt     447.933    449.959
+ R   2		 G   3		 BestInG     470.143		 AvgOfG     449.134		 StDv        4.89		 95% ConfInt     448.156    450.112
+ R   2		 G   4		 BestInG     470.429		 AvgOfG     450.009		 StDv       6.728		 95% ConfInt     448.663    451.354
+ R   2		 G   5		 BestInG     470.429		 AvgOfG     451.867		 StDv       6.808		 95% ConfInt     450.506    453.229
+ R   2		 G   6		 BestInG     470.429		 AvgOfG      452.28		 StDv       7.804		 95% ConfInt     450.719    453.841
+ R   2		 G   7		 BestInG     470.429		 AvgOfG     453.983		 StDv       7.394		 95% ConfInt     452.504    455.462
+ R   2		 G   8		 BestInG     470.429		 AvgOfG     455.143		 StDv       9.717		 95% ConfInt     453.199    457.086
+ R   2		 G   9		 BestInG     470.429		 AvgOfG     457.749		 StDv       7.707		 95% ConfInt     456.207     459.29
+2      1 0000111111   RawFitness
+               63.0      470.429
+
+ R   3		 G   0		 BestInG     470.286		 AvgOfG     446.861		 StDv       5.628		 95% ConfInt     445.736    447.987
+ R   3		 G   1		 BestInG     470.286		 AvgOfG     449.399		 StDv       7.368		 95% ConfInt     447.925    450.872
+ R   3		 G   2		 BestInG     470.429		 AvgOfG     449.496		 StDv       7.889		 95% ConfInt     447.918    451.073
+ R   3		 G   3		 BestInG     470.429		 AvgOfG     451.804		 StDv       9.586		 95% ConfInt     449.887    453.721
+ R   3		 G   4		 BestInG     470.429		 AvgOfG     453.716		 StDv       9.326		 95% ConfInt     451.851    455.581
+ R   3		 G   5		 BestInG     470.429		 AvgOfG     454.113		 StDv      10.262		 95% ConfInt      452.06    456.165
+ R   3		 G   6		 BestInG     470.429		 AvgOfG     457.446		 StDv      10.417		 95% ConfInt     455.362    459.529
+ R   3		 G   7		 BestInG     470.429		 AvgOfG     460.373		 StDv      10.582		 95% ConfInt     458.257    462.489
+ R   3		 G   8		 BestInG     470.429		 AvgOfG     465.151		 StDv       8.682		 95% ConfInt     463.415    466.888
+ R   3		 G   9		 BestInG     470.429		 AvgOfG     467.981		 StDv       6.705		 95% ConfInt      466.64    469.322
+3      2 0000111111   RawFitness
+               63.0      470.429
+
+ R   4		 G   0		 BestInG     470.286		 AvgOfG     446.281		 StDv       7.387		 95% ConfInt     444.804    447.759
+ R   4		 G   1		 BestInG     470.286		 AvgOfG     448.171		 StDv       6.309		 95% ConfInt      446.91    449.433
+ R   4		 G   2		 BestInG     470.286		 AvgOfG     449.831		 StDv       7.922		 95% ConfInt     448.247    451.416
+ R   4		 G   3		 BestInG     470.429		 AvgOfG     450.379		 StDv       8.928		 95% ConfInt     448.593    452.164
+ R   4		 G   4		 BestInG     470.429		 AvgOfG     452.103		 StDv       9.024		 95% ConfInt     450.298    453.908
+ R   4		 G   5		 BestInG     470.429		 AvgOfG     456.003		 StDv       9.219		 95% ConfInt     454.159    457.847
+ R   4		 G   6		 BestInG     470.429		 AvgOfG     459.094		 StDv       9.806		 95% ConfInt     457.133    461.055
+ R   4		 G   7		 BestInG     470.429		 AvgOfG      462.44		 StDv        9.33		 95% ConfInt     460.574    464.306
+ R   4		 G   8		 BestInG     470.429		 AvgOfG      466.56		 StDv       7.184		 95% ConfInt     465.123    467.997
+ R   4		 G   9		 BestInG     470.429		 AvgOfG     469.314		 StDv       4.161		 95% ConfInt     468.482    470.147
+4      3 0000111111   RawFitness
+               63.0      470.429
+
+ R   5		 G   0		 BestInG     470.286		 AvgOfG     446.446		 StDv       6.567		 95% ConfInt     445.132    447.759
+ R   5		 G   1		 BestInG     470.286		 AvgOfG     448.317		 StDv       7.001		 95% ConfInt     446.917    449.717
+ R   5		 G   2		 BestInG     470.286		 AvgOfG     448.664		 StDv       8.652		 95% ConfInt     446.934    450.395
+ R   5		 G   3		 BestInG     470.429		 AvgOfG     450.541		 StDv       8.238		 95% ConfInt     448.894    452.189
+ R   5		 G   4		 BestInG     470.286		 AvgOfG     451.323		 StDv        7.34		 95% ConfInt     449.855    452.791
+ R   5		 G   5		 BestInG     470.429		 AvgOfG      453.54		 StDv       8.934		 95% ConfInt     451.753    455.327
+ R   5		 G   6		 BestInG     470.429		 AvgOfG      452.74		 StDv      10.672		 95% ConfInt     450.606    454.874
+ R   5		 G   7		 BestInG     470.429		 AvgOfG     455.461		 StDv       9.891		 95% ConfInt     453.483     457.44
+ R   5		 G   8		 BestInG     470.429		 AvgOfG     458.634		 StDv      11.585		 95% ConfInt     456.317    460.951
+ R   5		 G   9		 BestInG     470.429		 AvgOfG     462.383		 StDv      10.376		 95% ConfInt     460.308    464.458
+5      3 0000111111   RawFitness
+               63.0      470.429
+
+ R   6		 G   0		 BestInG     470.286		 AvgOfG     445.813		 StDv       7.003		 95% ConfInt     444.412    447.213
+ R   6		 G   1		 BestInG     470.429		 AvgOfG     448.304		 StDv       5.832		 95% ConfInt     447.138    449.471
+ R   6		 G   2		 BestInG     470.143		 AvgOfG     449.217		 StDv       6.082		 95% ConfInt     448.001    450.434
+ R   6		 G   3		 BestInG     470.286		 AvgOfG     451.087		 StDv       6.933		 95% ConfInt     449.701    452.474
+ R   6		 G   4		 BestInG     470.286		 AvgOfG      452.25		 StDv       7.967		 95% ConfInt     450.657    453.843
+ R   6		 G   5		 BestInG     470.286		 AvgOfG     454.486		 StDv        9.63		 95% ConfInt      452.56    456.412
+ R   6		 G   6		 BestInG     470.429		 AvgOfG     456.153		 StDv      11.034		 95% ConfInt     453.946     458.36
+ R   6		 G   7		 BestInG     470.429		 AvgOfG     460.873		 StDv      10.515		 95% ConfInt      458.77    462.976
+ R   6		 G   8		 BestInG     470.429		 AvgOfG     466.229		 StDv       8.631		 95% ConfInt     464.502    467.955
+ R   6		 G   9		 BestInG     470.429		 AvgOfG     469.097		 StDv       5.305		 95% ConfInt     468.036    470.158
+6      1 0000111111   RawFitness
+               63.0      470.429
+
+ R   7		 G   0		 BestInG     470.286		 AvgOfG     445.777		 StDv       7.806		 95% ConfInt     444.216    447.338
+ R   7		 G   1		 BestInG     470.286		 AvgOfG     448.499		 StDv       7.137		 95% ConfInt     447.071    449.926
+ R   7		 G   2		 BestInG     470.143		 AvgOfG     449.467		 StDv       6.537		 95% ConfInt      448.16    450.774
+ R   7		 G   3		 BestInG     470.286		 AvgOfG     450.366		 StDv        6.92		 95% ConfInt     448.982     451.75
+ R   7		 G   4		 BestInG     470.286		 AvgOfG     451.861		 StDv       8.038		 95% ConfInt     450.254    453.469
+ R   7		 G   5		 BestInG     470.429		 AvgOfG     454.723		 StDv       9.132		 95% ConfInt     452.897    456.549
+ R   7		 G   6		 BestInG     470.429		 AvgOfG      453.71		 StDv      12.032		 95% ConfInt     451.304    456.116
+ R   7		 G   7		 BestInG     470.429		 AvgOfG     453.819		 StDv      10.886		 95% ConfInt     451.641    455.996
+ R   7		 G   8		 BestInG     470.429		 AvgOfG     456.567		 StDv       9.495		 95% ConfInt     454.668    458.466
+ R   7		 G   9		 BestInG     470.429		 AvgOfG      460.03		 StDv       9.629		 95% ConfInt     458.104    461.956
+7      5 0000111111   RawFitness
+               63.0      470.429
+
+ R   8		 G   0		 BestInG     470.143		 AvgOfG      446.39		 StDv       7.463		 95% ConfInt     444.897    447.883
+ R   8		 G   1		 BestInG     470.286		 AvgOfG     447.831		 StDv       4.918		 95% ConfInt     446.848    448.815
+ R   8		 G   2		 BestInG     470.143		 AvgOfG     448.329		 StDv       6.632		 95% ConfInt     447.002    449.655
+ R   8		 G   3		 BestInG     470.286		 AvgOfG     449.769		 StDv       7.154		 95% ConfInt     448.338    451.199
+ R   8		 G   4		 BestInG     470.429		 AvgOfG     451.824		 StDv       8.828		 95% ConfInt     450.059     453.59
+ R   8		 G   5		 BestInG     470.429		 AvgOfG       453.7		 StDv      10.715		 95% ConfInt     451.557    455.843
+ R   8		 G   6		 BestInG     470.429		 AvgOfG     456.793		 StDv      10.806		 95% ConfInt     454.632    458.954
+ R   8		 G   7		 BestInG     470.429		 AvgOfG     460.594		 StDv      11.193		 95% ConfInt     458.356    462.833
+ R   8		 G   8		 BestInG     470.429		 AvgOfG     466.734		 StDv       7.942		 95% ConfInt     465.146    468.323
+ R   8		 G   9		 BestInG     470.429		 AvgOfG     469.456		 StDv       4.203		 95% ConfInt     468.615    470.296
+8      4 0000111111   RawFitness
+               63.0      470.429
+
+ R   9		 G   0		 BestInG     470.143		 AvgOfG     446.236		 StDv       7.529		 95% ConfInt      444.73    447.742
+ R   9		 G   1		 BestInG     470.143		 AvgOfG     448.677		 StDv       6.081		 95% ConfInt     447.461    449.893
+ R   9		 G   2		 BestInG     470.143		 AvgOfG     449.554		 StDv       7.133		 95% ConfInt     448.128    450.981
+ R   9		 G   3		 BestInG     470.286		 AvgOfG     450.671		 StDv       7.668		 95% ConfInt     449.138    452.205
+ R   9		 G   4		 BestInG     470.286		 AvgOfG     451.333		 StDv       7.834		 95% ConfInt     449.766      452.9
+ R   9		 G   5		 BestInG     470.286		 AvgOfG     453.656		 StDv       7.701		 95% ConfInt     452.116    455.196
+ R   9		 G   6		 BestInG     470.429		 AvgOfG     455.683		 StDv       9.269		 95% ConfInt     453.829    457.537
+ R   9		 G   7		 BestInG     470.429		 AvgOfG     457.267		 StDv       9.043		 95% ConfInt     455.459    459.076
+ R   9		 G   8		 BestInG     470.429		 AvgOfG      458.73		 StDv       8.947		 95% ConfInt     456.941    460.519
+ R   9		 G   9		 BestInG     470.429		 AvgOfG     458.361		 StDv      10.059		 95% ConfInt      456.35    460.373
+9      6 0000111111   RawFitness
+               63.0      470.429
+
+ R  10		 G   0		 BestInG     457.286		 AvgOfG     445.443		 StDv       6.857		 95% ConfInt     444.071    446.814
+ R  10		 G   1		 BestInG     470.286		 AvgOfG      448.41		 StDv       4.675		 95% ConfInt     447.475    449.345
+ R  10		 G   2		 BestInG     470.143		 AvgOfG     449.657		 StDv        5.07		 95% ConfInt     448.643    450.671
+ R  10		 G   3		 BestInG     470.143		 AvgOfG     451.144		 StDv       5.638		 95% ConfInt     450.017    452.272
+ R  10		 G   4		 BestInG     470.286		 AvgOfG       453.5		 StDv       6.196		 95% ConfInt     452.261    454.739
+ R  10		 G   5		 BestInG     470.286		 AvgOfG     455.113		 StDv       6.432		 95% ConfInt     453.826    456.399
+ R  10		 G   6		 BestInG     470.286		 AvgOfG     455.369		 StDv       7.682		 95% ConfInt     453.832    456.905
+ R  10		 G   7		 BestInG     470.286		 AvgOfG     457.171		 StDv       6.876		 95% ConfInt     455.796    458.547
+ R  10		 G   8		 BestInG     470.429		 AvgOfG     458.107		 StDv       7.026		 95% ConfInt     456.702    459.512
+ R  10		 G   9		 BestInG     470.429		 AvgOfG     459.826		 StDv       7.911		 95% ConfInt     458.243    461.408
+10     8 0000111111   RawFitness
+               63.0      470.429
+
+ R  11		 G   0		 BestInG     470.286		 AvgOfG     447.007		 StDv        7.08		 95% ConfInt     445.591    448.423
+ R  11		 G   1		 BestInG     470.143		 AvgOfG     446.781		 StDv       8.075		 95% ConfInt     445.166    448.396
+ R  11		 G   2		 BestInG     470.143		 AvgOfG     448.176		 StDv       5.788		 95% ConfInt     447.018    449.333
+ R  11		 G   3		 BestInG     470.429		 AvgOfG     449.891		 StDv       5.567		 95% ConfInt     448.778    451.005
+ R  11		 G   4		 BestInG     470.429		 AvgOfG     449.709		 StDv       6.203		 95% ConfInt     448.468    450.949
+ R  11		 G   5		 BestInG     470.143		 AvgOfG      450.43		 StDv       5.007		 95% ConfInt     449.429    451.431
+ R  11		 G   6		 BestInG     470.286		 AvgOfG     451.496		 StDv       5.002		 95% ConfInt     450.495    452.496
+ R  11		 G   7		 BestInG     470.286		 AvgOfG      453.26		 StDv        4.91		 95% ConfInt     452.278    454.242
+ R  11		 G   8		 BestInG     470.429		 AvgOfG      455.37		 StDv       4.524		 95% ConfInt     454.465    456.275
+ R  11		 G   9		 BestInG     470.429		 AvgOfG     456.929		 StDv       3.959		 95% ConfInt     456.137     457.72
+11     3 0000111111   RawFitness
+               63.0      470.429
+
+ R  12		 G   0		 BestInG     470.429		 AvgOfG     446.009		 StDv       7.252		 95% ConfInt     444.558    447.459
+ R  12		 G   1		 BestInG     470.429		 AvgOfG     448.556		 StDv       7.041		 95% ConfInt     447.147    449.964
+ R  12		 G   2		 BestInG     470.286		 AvgOfG      450.02		 StDv         6.6		 95% ConfInt       448.7     451.34
+ R  12		 G   3		 BestInG     470.429		 AvgOfG     451.136		 StDv       7.856		 95% ConfInt     449.564    452.707
+ R  12		 G   4		 BestInG     470.286		 AvgOfG     452.949		 StDv       7.318		 95% ConfInt     451.485    454.412
+ R  12		 G   5		 BestInG     470.429		 AvgOfG     453.639		 StDv       7.301		 95% ConfInt     452.178    455.099
+ R  12		 G   6		 BestInG     470.143		 AvgOfG     455.729		 StDv       6.993		 95% ConfInt      454.33    457.127
+ R  12		 G   7		 BestInG     470.286		 AvgOfG      455.23		 StDv       7.941		 95% ConfInt     453.642    456.818
+ R  12		 G   8		 BestInG     470.429		 AvgOfG     456.426		 StDv       6.842		 95% ConfInt     455.057    457.794
+ R  12		 G   9		 BestInG     470.429		 AvgOfG     457.696		 StDv       8.003		 95% ConfInt     456.095    459.296
+12     0 0000111111   RawFitness
+               63.0      470.429
+
+ R  13		 G   0		 BestInG       470.0		 AvgOfG     444.503		 StDv       9.107		 95% ConfInt     442.682    446.324
+ R  13		 G   1		 BestInG     470.143		 AvgOfG      446.97		 StDv       5.434		 95% ConfInt     445.883    448.057
+ R  13		 G   2		 BestInG       470.0		 AvgOfG      448.07		 StDv       3.671		 95% ConfInt     447.336    448.804
+ R  13		 G   3		 BestInG     470.286		 AvgOfG     449.191		 StDv       5.122		 95% ConfInt     448.167    450.216
+ R  13		 G   4		 BestInG     470.143		 AvgOfG     448.226		 StDv       6.487		 95% ConfInt     446.928    449.523
+ R  13		 G   5		 BestInG     470.286		 AvgOfG     450.159		 StDv        6.22		 95% ConfInt     448.915    451.403
+ R  13		 G   6		 BestInG     470.286		 AvgOfG     451.084		 StDv       7.998		 95% ConfInt     449.485    452.684
+ R  13		 G   7		 BestInG     470.429		 AvgOfG      452.69		 StDv       7.636		 95% ConfInt     451.163    454.217
+ R  13		 G   8		 BestInG     470.429		 AvgOfG      453.52		 StDv       8.343		 95% ConfInt     451.851    455.189
+ R  13		 G   9		 BestInG     470.429		 AvgOfG     456.387		 StDv       8.944		 95% ConfInt     454.598    458.176
+13     7 0000111111   RawFitness
+               63.0      470.429
+
+ R  14		 G   0		 BestInG     470.143		 AvgOfG     446.769		 StDv       6.821		 95% ConfInt     445.404    448.133
+ R  14		 G   1		 BestInG     464.429		 AvgOfG     447.543		 StDv       3.251		 95% ConfInt     446.893    448.193
+ R  14		 G   2		 BestInG       460.0		 AvgOfG     448.251		 StDv       3.223		 95% ConfInt     447.607    448.896
+ R  14		 G   3		 BestInG     457.429		 AvgOfG     449.154		 StDv       3.766		 95% ConfInt     448.401    449.907
+ R  14		 G   4		 BestInG     457.429		 AvgOfG     450.766		 StDv       4.665		 95% ConfInt     449.833    451.699
+ R  14		 G   5		 BestInG     457.429		 AvgOfG     452.103		 StDv       4.985		 95% ConfInt     451.106      453.1
+ R  14		 G   6		 BestInG     457.286		 AvgOfG     453.927		 StDv       4.647		 95% ConfInt     452.998    454.857
+ R  14		 G   7		 BestInG     457.286		 AvgOfG     456.724		 StDv       2.235		 95% ConfInt     456.277    457.171
+ R  14		 G   8		 BestInG     457.429		 AvgOfG     456.506		 StDv       3.115		 95% ConfInt     455.883    457.129
+ R  14		 G   9		 BestInG     457.429		 AvgOfG     457.029		 StDv        1.84		 95% ConfInt     456.661    457.397
+14     0 0000101101   RawFitness
+               45.0      470.143
+
+ R  15		 G   0		 BestInG     470.286		 AvgOfG      445.57		 StDv       7.437		 95% ConfInt     444.083    447.057
+ R  15		 G   1		 BestInG       470.0		 AvgOfG     447.181		 StDv       3.754		 95% ConfInt     446.431    447.932
+ R  15		 G   2		 BestInG       470.0		 AvgOfG     447.994		 StDv       4.221		 95% ConfInt      447.15    448.838
+ R  15		 G   3		 BestInG     457.286		 AvgOfG     447.437		 StDv       3.742		 95% ConfInt     446.689    448.186
+ R  15		 G   4		 BestInG     464.571		 AvgOfG      448.45		 StDv       2.909		 95% ConfInt     447.868    449.032
+ R  15		 G   5		 BestInG     464.571		 AvgOfG     449.489		 StDv       3.855		 95% ConfInt     448.718     450.26
+ R  15		 G   6		 BestInG     463.857		 AvgOfG     450.324		 StDv       3.945		 95% ConfInt     449.535    451.113
+ R  15		 G   7		 BestInG     457.429		 AvgOfG     451.313		 StDv       4.367		 95% ConfInt      450.44    452.186
+ R  15		 G   8		 BestInG     457.429		 AvgOfG     453.413		 StDv       4.564		 95% ConfInt       452.5    454.326
+ R  15		 G   9		 BestInG     457.429		 AvgOfG     455.533		 StDv       3.819		 95% ConfInt     454.769    456.297
+15     0 0000111011   RawFitness
+               59.0      470.286
+
+ R  16		 G   0		 BestInG       470.0		 AvgOfG      443.79		 StDv       9.054		 95% ConfInt     441.979    445.601
+ R  16		 G   1		 BestInG       470.0		 AvgOfG     447.636		 StDv       4.429		 95% ConfInt      446.75    448.521
+ R  16		 G   2		 BestInG     470.143		 AvgOfG     447.197		 StDv       4.622		 95% ConfInt     446.273    448.122
+ R  16		 G   3		 BestInG       470.0		 AvgOfG      448.64		 StDv       4.143		 95% ConfInt     447.811    449.469
+ R  16		 G   4		 BestInG     470.286		 AvgOfG     449.644		 StDv       4.548		 95% ConfInt     448.735    450.554
+ R  16		 G   5		 BestInG     470.286		 AvgOfG      451.61		 StDv       6.034		 95% ConfInt     450.403    452.817
+ R  16		 G   6		 BestInG     470.286		 AvgOfG     452.436		 StDv       6.918		 95% ConfInt     451.052    453.819
+ R  16		 G   7		 BestInG     470.286		 AvgOfG     453.809		 StDv       6.132		 95% ConfInt     452.582    455.035
+ R  16		 G   8		 BestInG     470.286		 AvgOfG     454.893		 StDv       6.036		 95% ConfInt     453.686      456.1
+ R  16		 G   9		 BestInG     470.286		 AvgOfG     456.741		 StDv       6.267		 95% ConfInt     455.488    457.995
+16     4 0000111101   RawFitness
+               61.0      470.286
+
+ R  17		 G   0		 BestInG     470.143		 AvgOfG       446.1		 StDv       6.074		 95% ConfInt     444.885    447.315
+ R  17		 G   1		 BestInG       470.0		 AvgOfG     447.773		 StDv       4.686		 95% ConfInt     446.836     448.71
+ R  17		 G   2		 BestInG     470.143		 AvgOfG     448.511		 StDv       5.184		 95% ConfInt     447.475    449.548
+ R  17		 G   3		 BestInG     470.286		 AvgOfG     449.027		 StDv        5.65		 95% ConfInt     447.897    450.157
+ R  17		 G   4		 BestInG     470.286		 AvgOfG     450.587		 StDv        6.57		 95% ConfInt     449.273    451.901
+ R  17		 G   5		 BestInG     470.286		 AvgOfG     450.629		 StDv       8.807		 95% ConfInt     448.867     452.39
+ R  17		 G   6		 BestInG     470.286		 AvgOfG     452.631		 StDv       8.814		 95% ConfInt     450.869    454.394
+ R  17		 G   7		 BestInG     470.429		 AvgOfG     455.023		 StDv      10.744		 95% ConfInt     452.874    457.172
+ R  17		 G   8		 BestInG     470.429		 AvgOfG     455.226		 StDv      10.565		 95% ConfInt     453.113    457.339
+ R  17		 G   9		 BestInG     470.429		 AvgOfG     457.373		 StDv      10.617		 95% ConfInt     455.249    459.496
+17     7 0000111111   RawFitness
+               63.0      470.429
+
+ R  18		 G   0		 BestInG     470.143		 AvgOfG      446.41		 StDv       7.019		 95% ConfInt     445.006    447.814
+ R  18		 G   1		 BestInG     470.143		 AvgOfG     448.586		 StDv       7.663		 95% ConfInt     447.053    450.118
+ R  18		 G   2		 BestInG     470.286		 AvgOfG     448.773		 StDv       8.643		 95% ConfInt     447.044    450.502
+ R  18		 G   3		 BestInG     470.286		 AvgOfG     450.414		 StDv       9.555		 95% ConfInt     448.503    452.325
+ R  18		 G   4		 BestInG     470.429		 AvgOfG     450.854		 StDv       9.803		 95% ConfInt     448.894    452.815
+ R  18		 G   5		 BestInG     470.286		 AvgOfG     453.154		 StDv       9.032		 95% ConfInt     451.348    454.961
+ R  18		 G   6		 BestInG     470.429		 AvgOfG     454.793		 StDv      10.772		 95% ConfInt     452.638    456.947
+ R  18		 G   7		 BestInG     470.429		 AvgOfG     458.591		 StDv       10.68		 95% ConfInt     456.455    460.727
+ R  18		 G   8		 BestInG     470.429		 AvgOfG     462.846		 StDv       10.38		 95% ConfInt      460.77    464.922
+ R  18		 G   9		 BestInG     470.429		 AvgOfG     466.223		 StDv       8.735		 95% ConfInt     464.476     467.97
+18     4 0000111111   RawFitness
+               63.0      470.429
+
+ R  19		 G   0		 BestInG     470.143		 AvgOfG      445.43		 StDv       8.543		 95% ConfInt     443.721    447.139
+ R  19		 G   1		 BestInG     470.286		 AvgOfG     448.729		 StDv        6.65		 95% ConfInt     447.399    450.059
+ R  19		 G   2		 BestInG     470.286		 AvgOfG     449.283		 StDv       6.399		 95% ConfInt     448.003    450.563
+ R  19		 G   3		 BestInG     470.286		 AvgOfG      450.73		 StDv       8.955		 95% ConfInt     448.939    452.521
+ R  19		 G   4		 BestInG     470.286		 AvgOfG     453.624		 StDv      11.038		 95% ConfInt     451.417    455.832
+ R  19		 G   5		 BestInG     470.429		 AvgOfG     455.363		 StDv      12.167		 95% ConfInt     452.929    457.796
+ R  19		 G   6		 BestInG     470.429		 AvgOfG      461.29		 StDv       11.68		 95% ConfInt     458.954    463.626
+ R  19		 G   7		 BestInG     470.429		 AvgOfG     464.749		 StDv       9.714		 95% ConfInt     462.806    466.691
+ R  19		 G   8		 BestInG     470.429		 AvgOfG     469.174		 StDv       4.756		 95% ConfInt     468.223    470.125
+ R  19		 G   9		 BestInG     470.429		 AvgOfG     470.284		 StDv       0.098		 95% ConfInt     470.265    470.304
+19     5 0000111111   RawFitness
+               63.0      470.429
+
+ R  20		 G   0		 BestInG       470.0		 AvgOfG     445.891		 StDv       5.468		 95% ConfInt     444.798    446.985
+ R  20		 G   1		 BestInG     470.143		 AvgOfG     447.309		 StDv       4.088		 95% ConfInt     446.491    448.126
+ R  20		 G   2		 BestInG     470.429		 AvgOfG     448.419		 StDv       4.873		 95% ConfInt     447.444    449.393
+ R  20		 G   3		 BestInG     470.286		 AvgOfG      449.37		 StDv       6.018		 95% ConfInt     448.166    450.574
+ R  20		 G   4		 BestInG     470.286		 AvgOfG     450.703		 StDv       6.991		 95% ConfInt     449.305    452.101
+ R  20		 G   5		 BestInG     470.429		 AvgOfG     450.389		 StDv       8.281		 95% ConfInt     448.732    452.045
+ R  20		 G   6		 BestInG     470.429		 AvgOfG     452.423		 StDv       8.717		 95% ConfInt     450.679    454.166
+ R  20		 G   7		 BestInG     470.429		 AvgOfG     452.756		 StDv        8.37		 95% ConfInt     451.082     454.43
+ R  20		 G   8		 BestInG     470.429		 AvgOfG       455.2		 StDv       7.452		 95% ConfInt      453.71     456.69
+ R  20		 G   9		 BestInG     470.429		 AvgOfG     458.341		 StDv       7.243		 95% ConfInt     456.893     459.79
+20     2 0000111111   RawFitness
+               63.0      470.429
+
+ R  21		 G   0		 BestInG       470.0		 AvgOfG     447.024		 StDv       6.364		 95% ConfInt     445.751    448.297
+ R  21		 G   1		 BestInG     470.286		 AvgOfG      447.79		 StDv       7.751		 95% ConfInt      446.24     449.34
+ R  21		 G   2		 BestInG     470.286		 AvgOfG      450.33		 StDv        7.86		 95% ConfInt     448.758    451.902
+ R  21		 G   3		 BestInG     470.429		 AvgOfG     451.184		 StDv      11.357		 95% ConfInt     448.913    453.456
+ R  21		 G   4		 BestInG     470.429		 AvgOfG     453.901		 StDv      11.039		 95% ConfInt     451.694    456.109
+ R  21		 G   5		 BestInG     470.429		 AvgOfG     457.303		 StDv      12.046		 95% ConfInt     454.894    459.712
+ R  21		 G   6		 BestInG     470.429		 AvgOfG     462.024		 StDv      10.928		 95% ConfInt     459.839     464.21
+ R  21		 G   7		 BestInG     470.429		 AvgOfG     464.954		 StDv       9.757		 95% ConfInt     463.003    466.906
+ R  21		 G   8		 BestInG     470.429		 AvgOfG      467.36		 StDv       8.695		 95% ConfInt     465.621    469.099
+ R  21		 G   9		 BestInG     470.429		 AvgOfG     469.906		 StDv       3.126		 95% ConfInt      469.28    470.531
+21     3 0000111111   RawFitness
+               63.0      470.429
+
+ R  22		 G   0		 BestInG     457.286		 AvgOfG     444.536		 StDv       7.287		 95% ConfInt     443.078    445.993
+ R  22		 G   1		 BestInG     457.429		 AvgOfG     446.746		 StDv       1.906		 95% ConfInt     446.365    447.127
+ R  22		 G   2		 BestInG     470.286		 AvgOfG     447.839		 StDv       3.354		 95% ConfInt     447.168    448.509
+ R  22		 G   3		 BestInG     457.286		 AvgOfG     448.296		 StDv       4.462		 95% ConfInt     447.403    449.188
+ R  22		 G   4		 BestInG     457.429		 AvgOfG     450.051		 StDv       4.009		 95% ConfInt      449.25    450.853
+ R  22		 G   5		 BestInG     457.286		 AvgOfG     451.966		 StDv       4.802		 95% ConfInt     451.005    452.926
+ R  22		 G   6		 BestInG     457.429		 AvgOfG     453.877		 StDv       4.758		 95% ConfInt     452.926    454.829
+ R  22		 G   7		 BestInG     457.429		 AvgOfG     455.603		 StDv       3.976		 95% ConfInt     454.808    456.398
+ R  22		 G   8		 BestInG     457.429		 AvgOfG     456.987		 StDv       1.819		 95% ConfInt     456.623    457.351
+ R  22		 G   9		 BestInG     457.429		 AvgOfG     456.794		 StDv       2.589		 95% ConfInt     456.277    457.312
+22     2 0000111011   RawFitness
+               59.0      470.286
+
+ R  23		 G   0		 BestInG     470.143		 AvgOfG     446.147		 StDv       7.074		 95% ConfInt     444.732    447.562
+ R  23		 G   1		 BestInG     470.143		 AvgOfG     448.601		 StDv       5.829		 95% ConfInt     447.436    449.767
+ R  23		 G   2		 BestInG     470.286		 AvgOfG     449.716		 StDv       8.038		 95% ConfInt     448.108    451.323
+ R  23		 G   3		 BestInG     470.143		 AvgOfG     451.424		 StDv        7.75		 95% ConfInt     449.874    452.974
+ R  23		 G   4		 BestInG     470.286		 AvgOfG     452.153		 StDv       7.935		 95% ConfInt     450.566     453.74
+ R  23		 G   5		 BestInG     470.286		 AvgOfG     455.286		 StDv       9.275		 95% ConfInt     453.431    457.141
+ R  23		 G   6		 BestInG     470.286		 AvgOfG     455.941		 StDv       9.742		 95% ConfInt     453.993     457.89
+ R  23		 G   7		 BestInG     470.429		 AvgOfG     459.536		 StDv       9.762		 95% ConfInt     457.583    461.488
+ R  23		 G   8		 BestInG     470.429		 AvgOfG     461.736		 StDv      10.416		 95% ConfInt     459.652    463.819
+ R  23		 G   9		 BestInG     470.429		 AvgOfG     468.013		 StDv       6.506		 95% ConfInt     466.712    469.314
+23     7 0000111111   RawFitness
+               63.0      470.429
+
+ R  24		 G   0		 BestInG     470.286		 AvgOfG     446.506		 StDv       5.734		 95% ConfInt     445.359    447.653
+ R  24		 G   1		 BestInG     470.143		 AvgOfG     447.294		 StDv       4.552		 95% ConfInt     446.384    448.205
+ R  24		 G   2		 BestInG     470.286		 AvgOfG     447.879		 StDv       5.538		 95% ConfInt     446.771    448.986
+ R  24		 G   3		 BestInG     470.286		 AvgOfG     450.333		 StDv       6.721		 95% ConfInt     448.989    451.677
+ R  24		 G   4		 BestInG     470.429		 AvgOfG       451.1		 StDv       7.121		 95% ConfInt     449.676    452.524
+ R  24		 G   5		 BestInG     470.429		 AvgOfG     452.307		 StDv       8.487		 95% ConfInt      450.61    454.005
+ R  24		 G   6		 BestInG     470.429		 AvgOfG      454.44		 StDv       8.763		 95% ConfInt     452.687    456.193
+ R  24		 G   7		 BestInG     470.429		 AvgOfG     455.333		 StDv       9.977		 95% ConfInt     453.338    457.328
+ R  24		 G   8		 BestInG     470.429		 AvgOfG     454.806		 StDv        9.14		 95% ConfInt     452.978    456.634
+ R  24		 G   9		 BestInG     470.429		 AvgOfG     456.083		 StDv       9.996		 95% ConfInt     454.084    458.082
+24     4 0000111111   RawFitness
+               63.0      470.429
+
+ R  25		 G   0		 BestInG     470.143		 AvgOfG     447.013		 StDv       7.488		 95% ConfInt     445.515    448.511
+ R  25		 G   1		 BestInG     470.286		 AvgOfG     448.434		 StDv       6.072		 95% ConfInt      447.22    449.649
+ R  25		 G   2		 BestInG     470.286		 AvgOfG      449.85		 StDv       8.221		 95% ConfInt     448.206    451.494
+ R  25		 G   3		 BestInG     470.286		 AvgOfG     452.053		 StDv       10.11		 95% ConfInt     450.031    454.075
+ R  25		 G   4		 BestInG     470.429		 AvgOfG     453.203		 StDv      11.887		 95% ConfInt     450.825     455.58
+ R  25		 G   5		 BestInG     470.429		 AvgOfG     453.903		 StDv      10.983		 95% ConfInt     451.706      456.1
+ R  25		 G   6		 BestInG     470.429		 AvgOfG     456.664		 StDv      12.742		 95% ConfInt     454.116    459.213
+ R  25		 G   7		 BestInG     470.429		 AvgOfG     462.707		 StDv      10.603		 95% ConfInt     460.586    464.828
+ R  25		 G   8		 BestInG     470.429		 AvgOfG     467.903		 StDv       6.957		 95% ConfInt     466.511    469.294
+ R  25		 G   9		 BestInG     470.429		 AvgOfG      469.14		 StDv       5.251		 95% ConfInt      468.09     470.19
+25     4 0000111111   RawFitness
+               63.0      470.429
+
+ R  26		 G   0		 BestInG     462.571		 AvgOfG     445.777		 StDv       5.455		 95% ConfInt     444.686    446.868
+ R  26		 G   1		 BestInG     460.143		 AvgOfG     446.837		 StDv       2.801		 95% ConfInt     446.277    447.397
+ R  26		 G   2		 BestInG     470.143		 AvgOfG     447.713		 StDv       3.492		 95% ConfInt     447.014    448.411
+ R  26		 G   3		 BestInG       470.0		 AvgOfG     448.109		 StDv       5.211		 95% ConfInt     447.066    449.151
+ R  26		 G   4		 BestInG     464.571		 AvgOfG      450.21		 StDv       4.598		 95% ConfInt      449.29     451.13
+ R  26		 G   5		 BestInG     464.571		 AvgOfG     451.284		 StDv       5.212		 95% ConfInt     450.242    452.327
+ R  26		 G   6		 BestInG     464.571		 AvgOfG     453.561		 StDv       5.149		 95% ConfInt     452.532    454.591
+ R  26		 G   7		 BestInG     464.571		 AvgOfG     456.591		 StDv       3.484		 95% ConfInt     455.895    457.288
+ R  26		 G   8		 BestInG     464.571		 AvgOfG     456.613		 StDv       2.984		 95% ConfInt     456.016     457.21
+ R  26		 G   9		 BestInG     464.571		 AvgOfG     457.257		 StDv       1.905		 95% ConfInt     456.876    457.638
+26     2 0000110101   RawFitness
+               53.0      470.143
+
+ R  27		 G   0		 BestInG     470.286		 AvgOfG     445.049		 StDv       9.081		 95% ConfInt     443.232    446.865
+ R  27		 G   1		 BestInG     470.286		 AvgOfG     448.893		 StDv       6.681		 95% ConfInt     447.557    450.229
+ R  27		 G   2		 BestInG     470.286		 AvgOfG     449.659		 StDv       6.353		 95% ConfInt     448.388    450.929
+ R  27		 G   3		 BestInG     470.429		 AvgOfG     450.747		 StDv       8.045		 95% ConfInt     449.138    452.356
+ R  27		 G   4		 BestInG     470.429		 AvgOfG     450.723		 StDv       6.641		 95% ConfInt     449.395    452.051
+ R  27		 G   5		 BestInG     470.429		 AvgOfG     452.443		 StDv       7.195		 95% ConfInt     451.004    453.882
+ R  27		 G   6		 BestInG     470.429		 AvgOfG     453.783		 StDv       7.386		 95% ConfInt     452.306     455.26
+ R  27		 G   7		 BestInG     470.429		 AvgOfG     454.037		 StDv       7.226		 95% ConfInt     452.592    455.482
+ R  27		 G   8		 BestInG     470.429		 AvgOfG     457.261		 StDv       7.738		 95% ConfInt     455.714    458.809
+ R  27		 G   9		 BestInG     470.429		 AvgOfG     459.064		 StDv       8.712		 95% ConfInt     457.322    460.807
+27     3 0000111111   RawFitness
+               63.0      470.429
+
+ R  28		 G   0		 BestInG     470.429		 AvgOfG      447.61		 StDv       8.342		 95% ConfInt     445.942    449.278
+ R  28		 G   1		 BestInG     470.286		 AvgOfG     449.479		 StDv       8.922		 95% ConfInt     447.694    451.263
+ R  28		 G   2		 BestInG     470.429		 AvgOfG     451.691		 StDv       9.361		 95% ConfInt     449.819    453.564
+ R  28		 G   3		 BestInG     470.429		 AvgOfG     454.489		 StDv      12.204		 95% ConfInt     452.048    456.929
+ R  28		 G   4		 BestInG     470.429		 AvgOfG     457.114		 StDv      12.814		 95% ConfInt     454.552    459.677
+ R  28		 G   5		 BestInG     470.429		 AvgOfG     462.373		 StDv      10.862		 95% ConfInt       460.2    464.545
+ R  28		 G   6		 BestInG     470.429		 AvgOfG     467.603		 StDv        7.45		 95% ConfInt     466.113    469.093
+ R  28		 G   7		 BestInG     470.429		 AvgOfG     470.253		 StDv       0.134		 95% ConfInt     470.226     470.28
+ R  28		 G   8		 BestInG     470.429		 AvgOfG     470.316		 StDv         0.1		 95% ConfInt     470.296    470.336
+ R  28		 G   9		 BestInG     470.429		 AvgOfG     470.357		 StDv        0.08		 95% ConfInt     470.341    470.373
+28     0 0000111111   RawFitness
+               63.0      470.429
+
+ R  29		 G   0		 BestInG     470.286		 AvgOfG     446.803		 StDv       8.962		 95% ConfInt      445.01    448.595
+ R  29		 G   1		 BestInG     470.286		 AvgOfG     448.601		 StDv        8.46		 95% ConfInt     446.909    450.293
+ R  29		 G   2		 BestInG     470.286		 AvgOfG     450.571		 StDv       8.614		 95% ConfInt     448.849    452.294
+ R  29		 G   3		 BestInG     470.429		 AvgOfG      452.45		 StDv       9.789		 95% ConfInt     450.492    454.408
+ R  29		 G   4		 BestInG     470.429		 AvgOfG     452.984		 StDv      10.738		 95% ConfInt     450.837    455.132
+ R  29		 G   5		 BestInG     470.429		 AvgOfG     456.881		 StDv      11.416		 95% ConfInt     454.598    459.165
+ R  29		 G   6		 BestInG     470.429		 AvgOfG       460.2		 StDv      10.872		 95% ConfInt     458.026    462.374
+ R  29		 G   7		 BestInG     470.429		 AvgOfG     465.884		 StDv       9.753		 95% ConfInt     463.934    467.835
+ R  29		 G   8		 BestInG     470.429		 AvgOfG     469.474		 StDv       3.941		 95% ConfInt     468.686    470.263
+ R  29		 G   9		 BestInG     470.429		 AvgOfG       470.3		 StDv       0.096		 95% ConfInt     470.281    470.319
+29     3 0000111111   RawFitness
+               63.0      470.429
+
+ R  30		 G   0		 BestInG     470.286		 AvgOfG     446.439		 StDv       7.759		 95% ConfInt     444.887     447.99
+ R  30		 G   1		 BestInG     470.286		 AvgOfG     448.237		 StDv       7.217		 95% ConfInt     446.794    449.681
+ R  30		 G   2		 BestInG     470.429		 AvgOfG     449.794		 StDv       7.937		 95% ConfInt     448.207    451.382
+ R  30		 G   3		 BestInG     470.286		 AvgOfG     451.989		 StDv        8.57		 95% ConfInt     450.275    453.703
+ R  30		 G   4		 BestInG     470.429		 AvgOfG     453.704		 StDv      10.721		 95% ConfInt      451.56    455.848
+ R  30		 G   5		 BestInG     470.429		 AvgOfG     457.874		 StDv       10.19		 95% ConfInt     455.836    459.912
+ R  30		 G   6		 BestInG     470.429		 AvgOfG     461.591		 StDv      10.238		 95% ConfInt     459.544    463.639
+ R  30		 G   7		 BestInG     470.429		 AvgOfG     466.071		 StDv       8.661		 95% ConfInt     464.339    467.804
+ R  30		 G   8		 BestInG     470.429		 AvgOfG     469.217		 StDv       4.486		 95% ConfInt      468.32    470.114
+ R  30		 G   9		 BestInG     470.429		 AvgOfG     470.361		 StDv       0.094		 95% ConfInt     470.343     470.38
+30     2 0000111111   RawFitness
+               63.0      470.429
+
+ R  31		 G   0		 BestInG     470.143		 AvgOfG      445.98		 StDv       7.243		 95% ConfInt     444.531    447.429
+ R  31		 G   1		 BestInG     470.143		 AvgOfG     447.011		 StDv        5.75		 95% ConfInt     445.861    448.161
+ R  31		 G   2		 BestInG     470.286		 AvgOfG     448.819		 StDv       7.163		 95% ConfInt     447.386    450.251
+ R  31		 G   3		 BestInG     470.429		 AvgOfG     450.153		 StDv       7.826		 95% ConfInt     448.588    451.718
+ R  31		 G   4		 BestInG     470.429		 AvgOfG     452.337		 StDv       7.858		 95% ConfInt     450.765    453.909
+ R  31		 G   5		 BestInG     470.286		 AvgOfG     452.627		 StDv       9.148		 95% ConfInt     450.798    454.457
+ R  31		 G   6		 BestInG     470.286		 AvgOfG     454.191		 StDv       8.081		 95% ConfInt     452.575    455.808
+ R  31		 G   7		 BestInG     470.429		 AvgOfG      455.49		 StDv       9.063		 95% ConfInt     453.677    457.303
+ R  31		 G   8		 BestInG     470.429		 AvgOfG     458.484		 StDv      10.095		 95% ConfInt     456.465    460.503
+ R  31		 G   9		 BestInG     470.429		 AvgOfG     462.461		 StDv       9.775		 95% ConfInt     460.506    464.416
+31     3 0000111111   RawFitness
+               63.0      470.429
+
+ R  32		 G   0		 BestInG     470.429		 AvgOfG     447.384		 StDv       7.932		 95% ConfInt     445.798    448.971
+ R  32		 G   1		 BestInG     470.429		 AvgOfG     450.346		 StDv       8.436		 95% ConfInt     448.659    452.033
+ R  32		 G   2		 BestInG     470.429		 AvgOfG     451.986		 StDv      10.145		 95% ConfInt     449.957    454.015
+ R  32		 G   3		 BestInG     470.429		 AvgOfG     455.627		 StDv      10.557		 95% ConfInt     453.516    457.739
+ R  32		 G   4		 BestInG     470.429		 AvgOfG     457.441		 StDv      12.026		 95% ConfInt     455.036    459.847
+ R  32		 G   5		 BestInG     470.429		 AvgOfG     459.503		 StDv      10.816		 95% ConfInt      457.34    461.666
+ R  32		 G   6		 BestInG     470.429		 AvgOfG     463.463		 StDv      11.041		 95% ConfInt     461.255    465.671
+ R  32		 G   7		 BestInG     470.429		 AvgOfG     465.629		 StDv       9.111		 95% ConfInt     463.806    467.451
+ R  32		 G   8		 BestInG     470.429		 AvgOfG     469.097		 StDv       5.102		 95% ConfInt     468.077    470.118
+ R  32		 G   9		 BestInG     470.429		 AvgOfG     470.179		 StDv       2.198		 95% ConfInt     469.739    470.618
+32     0 0000111111   RawFitness
+               63.0      470.429
+
+ R  33		 G   0		 BestInG       470.0		 AvgOfG      446.57		 StDv       5.398		 95% ConfInt      445.49     447.65
+ R  33		 G   1		 BestInG       470.0		 AvgOfG     447.537		 StDv       4.169		 95% ConfInt     446.703    448.371
+ R  33		 G   2		 BestInG     470.143		 AvgOfG     448.659		 StDv       5.326		 95% ConfInt     447.593    449.724
+ R  33		 G   3		 BestInG     470.429		 AvgOfG     448.886		 StDv       6.106		 95% ConfInt     447.664    450.107
+ R  33		 G   4		 BestInG     470.143		 AvgOfG     449.249		 StDv       4.505		 95% ConfInt     448.348     450.15
+ R  33		 G   5		 BestInG     470.286		 AvgOfG     450.196		 StDv       4.871		 95% ConfInt     449.221     451.17
+ R  33		 G   6		 BestInG     470.143		 AvgOfG     451.709		 StDv       5.249		 95% ConfInt     450.659    452.758
+ R  33		 G   7		 BestInG     470.143		 AvgOfG     453.779		 StDv       5.517		 95% ConfInt     452.675    454.882
+ R  33		 G   8		 BestInG     470.429		 AvgOfG     454.713		 StDv       5.456		 95% ConfInt     453.622    455.804
+ R  33		 G   9		 BestInG     470.429		 AvgOfG     456.231		 StDv       4.863		 95% ConfInt     455.259    457.204
+33     3 0000111111   RawFitness
+               63.0      470.429
+
+ R  34		 G   0		 BestInG     470.286		 AvgOfG     446.634		 StDv       7.417		 95% ConfInt     445.151    448.118
+ R  34		 G   1		 BestInG     470.143		 AvgOfG       448.5		 StDv         4.9		 95% ConfInt      447.52     449.48
+ R  34		 G   2		 BestInG     470.286		 AvgOfG     449.916		 StDv       5.677		 95% ConfInt      448.78    451.051
+ R  34		 G   3		 BestInG     470.429		 AvgOfG     450.947		 StDv       8.491		 95% ConfInt     449.249    452.645
+ R  34		 G   4		 BestInG     470.429		 AvgOfG      453.81		 StDv       7.984		 95% ConfInt     452.213    455.407
+ R  34		 G   5		 BestInG     470.429		 AvgOfG     456.349		 StDv       7.637		 95% ConfInt     454.821    457.876
+ R  34		 G   6		 BestInG     470.429		 AvgOfG      457.12		 StDv       7.267		 95% ConfInt     455.667    458.573
+ R  34		 G   7		 BestInG     470.429		 AvgOfG     459.423		 StDv         7.2		 95% ConfInt     457.983    460.863
+ R  34		 G   8		 BestInG     470.429		 AvgOfG     460.923		 StDv       8.554		 95% ConfInt     459.212    462.634
+ R  34		 G   9		 BestInG     470.429		 AvgOfG     465.046		 StDv       7.538		 95% ConfInt     463.538    466.553
+34     3 0000111111   RawFitness
+               63.0      470.429
+
+ R  35		 G   0		 BestInG     470.286		 AvgOfG     446.301		 StDv       8.435		 95% ConfInt     444.614    447.988
+ R  35		 G   1		 BestInG     470.286		 AvgOfG     447.197		 StDv       4.592		 95% ConfInt     446.279    448.116
+ R  35		 G   2		 BestInG     470.286		 AvgOfG     448.106		 StDv       3.386		 95% ConfInt     447.428    448.783
+ R  35		 G   3		 BestInG     470.286		 AvgOfG     448.571		 StDv       3.353		 95% ConfInt     447.901    449.242
+ R  35		 G   4		 BestInG     470.429		 AvgOfG     449.036		 StDv       3.643		 95% ConfInt     448.307    449.764
+ R  35		 G   5		 BestInG     470.429		 AvgOfG     450.736		 StDv       4.873		 95% ConfInt     449.761     451.71
+ R  35		 G   6		 BestInG     470.429		 AvgOfG     451.884		 StDv       5.401		 95% ConfInt     450.804    452.964
+ R  35		 G   7		 BestInG     457.429		 AvgOfG     453.157		 StDv       4.568		 95% ConfInt     452.243    454.071
+ R  35		 G   8		 BestInG     457.429		 AvgOfG     454.739		 StDv       4.115		 95% ConfInt     453.916    455.561
+ R  35		 G   9		 BestInG     457.429		 AvgOfG     456.227		 StDv       2.928		 95% ConfInt     455.642    456.813
+35     4 0000111111   RawFitness
+               63.0      470.429
+
+ R  36		 G   0		 BestInG       470.0		 AvgOfG     446.211		 StDv       7.157		 95% ConfInt      444.78    447.643
+ R  36		 G   1		 BestInG     470.286		 AvgOfG     448.444		 StDv        5.18		 95% ConfInt     447.408     449.48
+ R  36		 G   2		 BestInG     470.286		 AvgOfG     448.734		 StDv       6.747		 95% ConfInt     447.385    450.084
+ R  36		 G   3		 BestInG     470.286		 AvgOfG     449.633		 StDv       5.664		 95% ConfInt       448.5    450.766
+ R  36		 G   4		 BestInG     470.143		 AvgOfG     449.193		 StDv       7.072		 95% ConfInt     447.778    450.607
+ R  36		 G   5		 BestInG     470.286		 AvgOfG     451.576		 StDv       6.358		 95% ConfInt     450.304    452.847
+ R  36		 G   6		 BestInG     470.429		 AvgOfG     452.437		 StDv       6.947		 95% ConfInt     451.048    453.826
+ R  36		 G   7		 BestInG     470.286		 AvgOfG     453.063		 StDv       6.845		 95% ConfInt     451.694    454.432
+ R  36		 G   8		 BestInG     470.286		 AvgOfG     455.229		 StDv       5.524		 95% ConfInt     454.124    456.333
+ R  36		 G   9		 BestInG     470.429		 AvgOfG     456.924		 StDv       4.705		 95% ConfInt     455.983    457.865
+36     6 0000111111   RawFitness
+               63.0      470.429
+
+ R  37		 G   0		 BestInG     469.857		 AvgOfG      446.58		 StDv       6.538		 95% ConfInt     445.272    447.888
+ R  37		 G   1		 BestInG     470.143		 AvgOfG     448.356		 StDv       6.519		 95% ConfInt     447.052     449.66
+ R  37		 G   2		 BestInG       470.0		 AvgOfG     449.364		 StDv       5.952		 95% ConfInt     448.174    450.555
+ R  37		 G   3		 BestInG     470.286		 AvgOfG     451.264		 StDv       7.368		 95% ConfInt     449.791    452.738
+ R  37		 G   4		 BestInG     470.286		 AvgOfG     450.546		 StDv       9.798		 95% ConfInt     448.586    452.505
+ R  37		 G   5		 BestInG     470.429		 AvgOfG     453.203		 StDv       9.622		 95% ConfInt     451.279    455.127
+ R  37		 G   6		 BestInG     470.429		 AvgOfG     456.724		 StDv      10.121		 95% ConfInt       454.7    458.748
+ R  37		 G   7		 BestInG     470.429		 AvgOfG     457.133		 StDv      10.953		 95% ConfInt     454.942    459.323
+ R  37		 G   8		 BestInG     470.429		 AvgOfG     458.867		 StDv       11.17		 95% ConfInt     456.633    461.101
+ R  37		 G   9		 BestInG     470.429		 AvgOfG     461.824		 StDv      10.403		 95% ConfInt     459.744    463.905
+37     5 0000111111   RawFitness
+               63.0      470.429
+
+ R  38		 G   0		 BestInG     470.429		 AvgOfG     447.067		 StDv       6.756		 95% ConfInt     445.716    448.418
+ R  38		 G   1		 BestInG     470.429		 AvgOfG     448.539		 StDv       8.355		 95% ConfInt     446.868     450.21
+ R  38		 G   2		 BestInG     470.429		 AvgOfG     450.079		 StDv       9.211		 95% ConfInt     448.236    451.921
+ R  38		 G   3		 BestInG     470.429		 AvgOfG     452.913		 StDv       9.847		 95% ConfInt     450.944    454.882
+ R  38		 G   4		 BestInG     470.429		 AvgOfG     454.281		 StDv      11.298		 95% ConfInt     452.022    456.541
+ R  38		 G   5		 BestInG     470.429		 AvgOfG     453.877		 StDv      11.272		 95% ConfInt     451.623    456.131
+ R  38		 G   6		 BestInG     470.429		 AvgOfG     459.399		 StDv      10.236		 95% ConfInt     457.351    461.446
+ R  38		 G   7		 BestInG     470.429		 AvgOfG      461.77		 StDv      11.092		 95% ConfInt     459.552    463.988
+ R  38		 G   8		 BestInG     470.429		 AvgOfG     468.617		 StDv       5.067		 95% ConfInt     467.604    469.631
+ R  38		 G   9		 BestInG     470.429		 AvgOfG      470.27		 StDv       0.109		 95% ConfInt     470.248    470.292
+38     0 0000111111   RawFitness
+               63.0      470.429
+
+ R  39		 G   0		 BestInG     470.286		 AvgOfG     447.669		 StDv       5.863		 95% ConfInt     446.496    448.841
+ R  39		 G   1		 BestInG     470.286		 AvgOfG     449.934		 StDv       7.624		 95% ConfInt     448.409    451.459
+ R  39		 G   2		 BestInG     470.429		 AvgOfG     449.344		 StDv       9.489		 95% ConfInt     447.447    451.242
+ R  39		 G   3		 BestInG     470.286		 AvgOfG     451.381		 StDv      10.334		 95% ConfInt     449.315    453.448
+ R  39		 G   4		 BestInG     470.286		 AvgOfG      453.43		 StDv       9.879		 95% ConfInt     451.454    455.406
+ R  39		 G   5		 BestInG     470.429		 AvgOfG      454.09		 StDv      12.581		 95% ConfInt     451.574    456.606
+ R  39		 G   6		 BestInG     470.429		 AvgOfG     457.024		 StDv       9.814		 95% ConfInt     455.062    458.987
+ R  39		 G   7		 BestInG     470.429		 AvgOfG     456.947		 StDv      11.773		 95% ConfInt     454.593    459.302
+ R  39		 G   8		 BestInG     470.429		 AvgOfG     457.953		 StDv        11.9		 95% ConfInt     455.573    460.333
+ R  39		 G   9		 BestInG     470.429		 AvgOfG     459.799		 StDv       13.11		 95% ConfInt     457.177    462.421
+39     2 0000111111   RawFitness
+               63.0      470.429
+
+ R  40		 G   0		 BestInG     470.143		 AvgOfG     446.749		 StDv       7.164		 95% ConfInt     445.316    448.181
+ R  40		 G   1		 BestInG     470.429		 AvgOfG     448.516		 StDv       5.552		 95% ConfInt     447.405    449.626
+ R  40		 G   2		 BestInG     470.286		 AvgOfG     450.484		 StDv       9.414		 95% ConfInt     448.602    452.367
+ R  40		 G   3		 BestInG     470.286		 AvgOfG     451.819		 StDv       9.232		 95% ConfInt     449.972    453.665
+ R  40		 G   4		 BestInG     470.286		 AvgOfG     455.137		 StDv       9.643		 95% ConfInt     453.209    457.066
+ R  40		 G   5		 BestInG     470.286		 AvgOfG     454.084		 StDv      11.939		 95% ConfInt     451.696    456.472
+ R  40		 G   6		 BestInG     470.429		 AvgOfG     457.143		 StDv       10.97		 95% ConfInt     454.949    459.337
+ R  40		 G   7		 BestInG     470.429		 AvgOfG     461.189		 StDv      11.164		 95% ConfInt     458.956    463.421
+ R  40		 G   8		 BestInG     470.429		 AvgOfG      467.09		 StDv       6.871		 95% ConfInt     465.716    468.464
+ R  40		 G   9		 BestInG     470.429		 AvgOfG     469.203		 StDv       4.715		 95% ConfInt      468.26    470.146
+40     1 0000111111   RawFitness
+               63.0      470.429
+
+ R  41		 G   0		 BestInG     470.143		 AvgOfG     446.786		 StDv       7.346		 95% ConfInt     445.317    448.255
+ R  41		 G   1		 BestInG     470.286		 AvgOfG     450.611		 StDv       8.726		 95% ConfInt     448.866    452.357
+ R  41		 G   2		 BestInG     470.429		 AvgOfG     453.231		 StDv      11.675		 95% ConfInt     450.896    455.566
+ R  41		 G   3		 BestInG     470.429		 AvgOfG     454.793		 StDv      14.246		 95% ConfInt     451.944    457.642
+ R  41		 G   4		 BestInG     470.429		 AvgOfG     460.611		 StDv      11.871		 95% ConfInt     458.237    462.986
+ R  41		 G   5		 BestInG     470.429		 AvgOfG     466.946		 StDv        8.19		 95% ConfInt     465.308    468.584
+ R  41		 G   6		 BestInG     470.429		 AvgOfG     469.774		 StDv       3.425		 95% ConfInt     469.089    470.459
+ R  41		 G   7		 BestInG     470.429		 AvgOfG      470.31		 StDv       0.089		 95% ConfInt     470.292    470.328
+ R  41		 G   8		 BestInG     470.429		 AvgOfG     470.089		 StDv        2.55		 95% ConfInt     469.579    470.599
+ R  41		 G   9		 BestInG     470.429		 AvgOfG     470.371		 StDv       0.073		 95% ConfInt     470.357    470.386
+41     2 0000111111   RawFitness
+               63.0      470.429
+
+ R  42		 G   0		 BestInG     469.714		 AvgOfG      444.86		 StDv       8.437		 95% ConfInt     443.173    446.547
+ R  42		 G   1		 BestInG     470.429		 AvgOfG     447.236		 StDv       6.607		 95% ConfInt     445.914    448.557
+ R  42		 G   2		 BestInG       470.0		 AvgOfG     448.326		 StDv       4.039		 95% ConfInt     447.518    449.134
+ R  42		 G   3		 BestInG       470.0		 AvgOfG     449.991		 StDv       4.659		 95% ConfInt      449.06    450.923
+ R  42		 G   4		 BestInG     470.143		 AvgOfG     452.146		 StDv       5.362		 95% ConfInt     451.073    453.218
+ R  42		 G   5		 BestInG     470.429		 AvgOfG     453.801		 StDv       5.514		 95% ConfInt     452.699    454.904
+ R  42		 G   6		 BestInG     470.286		 AvgOfG      455.63		 StDv        4.43		 95% ConfInt     454.744    456.516
+ R  42		 G   7		 BestInG     470.429		 AvgOfG     456.663		 StDv       4.389		 95% ConfInt     455.785    457.541
+ R  42		 G   8		 BestInG     470.429		 AvgOfG     457.893		 StDv       4.257		 95% ConfInt     457.041    458.744
+ R  42		 G   9		 BestInG     470.429		 AvgOfG     457.216		 StDv       5.465		 95% ConfInt     456.123    458.309
+42     1 0000111111   RawFitness
+               63.0      470.429
+
+ R  43		 G   0		 BestInG     470.143		 AvgOfG     447.494		 StDv       6.596		 95% ConfInt     446.175    448.814
+ R  43		 G   1		 BestInG     470.143		 AvgOfG     449.196		 StDv       6.553		 95% ConfInt     447.885    450.506
+ R  43		 G   2		 BestInG     470.286		 AvgOfG     449.457		 StDv       9.391		 95% ConfInt     447.579    451.335
+ R  43		 G   3		 BestInG     470.429		 AvgOfG     450.341		 StDv      10.321		 95% ConfInt     448.277    452.406
+ R  43		 G   4		 BestInG     470.429		 AvgOfG     454.084		 StDv       8.533		 95% ConfInt     452.378    455.791
+ R  43		 G   5		 BestInG     470.429		 AvgOfG     454.749		 StDv       9.407		 95% ConfInt     452.867     456.63
+ R  43		 G   6		 BestInG     470.429		 AvgOfG     457.556		 StDv       9.691		 95% ConfInt     455.618    459.494
+ R  43		 G   7		 BestInG     470.429		 AvgOfG     459.577		 StDv      10.905		 95% ConfInt     457.396    461.758
+ R  43		 G   8		 BestInG     470.429		 AvgOfG     461.996		 StDv      10.681		 95% ConfInt     459.859    464.132
+ R  43		 G   9		 BestInG     470.429		 AvgOfG     466.643		 StDv       8.023		 95% ConfInt     465.038    468.247
+43     3 0000111111   RawFitness
+               63.0      470.429
+
+ R  44		 G   0		 BestInG     470.143		 AvgOfG     445.404		 StDv       8.254		 95% ConfInt     443.753    447.055
+ R  44		 G   1		 BestInG     470.286		 AvgOfG     448.171		 StDv       5.155		 95% ConfInt      447.14    449.202
+ R  44		 G   2		 BestInG     457.286		 AvgOfG     447.821		 StDv       2.978		 95% ConfInt     447.226    448.417
+ R  44		 G   3		 BestInG     457.429		 AvgOfG     448.561		 StDv       3.358		 95% ConfInt      447.89    449.233
+ R  44		 G   4		 BestInG     457.429		 AvgOfG     449.753		 StDv       4.131		 95% ConfInt     448.927    450.579
+ R  44		 G   5		 BestInG     457.429		 AvgOfG     450.943		 StDv       4.431		 95% ConfInt     450.057    451.829
+ R  44		 G   6		 BestInG     457.429		 AvgOfG       452.9		 StDv        4.64		 95% ConfInt     451.972    453.828
+ R  44		 G   7		 BestInG     464.571		 AvgOfG     454.787		 StDv       4.221		 95% ConfInt     453.943    455.631
+ R  44		 G   8		 BestInG     457.429		 AvgOfG     455.789		 StDv        3.48		 95% ConfInt     455.093    456.485
+ R  44		 G   9		 BestInG     457.429		 AvgOfG     457.119		 StDv       1.504		 95% ConfInt     456.818    457.419
+44     1 0000111011   RawFitness
+               59.0      470.286
+
+ R  45		 G   0		 BestInG       470.0		 AvgOfG      446.47		 StDv       7.172		 95% ConfInt     445.036    447.904
+ R  45		 G   1		 BestInG     470.143		 AvgOfG     448.716		 StDv        5.58		 95% ConfInt       447.6    449.832
+ R  45		 G   2		 BestInG     470.286		 AvgOfG     449.419		 StDv       5.416		 95% ConfInt     448.335    450.502
+ R  45		 G   3		 BestInG     470.143		 AvgOfG     450.747		 StDv       5.911		 95% ConfInt     449.565    451.929
+ R  45		 G   4		 BestInG     470.286		 AvgOfG     453.133		 StDv       7.202		 95% ConfInt     451.693    454.573
+ R  45		 G   5		 BestInG     470.286		 AvgOfG     452.971		 StDv       9.614		 95% ConfInt     451.049    454.894
+ R  45		 G   6		 BestInG     470.286		 AvgOfG     455.106		 StDv       8.046		 95% ConfInt     453.496    456.715
+ R  45		 G   7		 BestInG     470.429		 AvgOfG     457.063		 StDv       9.658		 95% ConfInt     455.131    458.994
+ R  45		 G   8		 BestInG     470.429		 AvgOfG     458.623		 StDv      11.553		 95% ConfInt     456.312    460.933
+ R  45		 G   9		 BestInG     470.429		 AvgOfG     462.163		 StDv       9.813		 95% ConfInt       460.2    464.125
+45     7 0000111111   RawFitness
+               63.0      470.429
+
+ R  46		 G   0		 BestInG     470.143		 AvgOfG     445.911		 StDv       5.437		 95% ConfInt     444.824    446.999
+ R  46		 G   1		 BestInG     470.429		 AvgOfG     447.556		 StDv       4.412		 95% ConfInt     446.673    448.438
+ R  46		 G   2		 BestInG     470.286		 AvgOfG     448.373		 StDv        4.28		 95% ConfInt     447.517    449.229
+ R  46		 G   3		 BestInG     470.286		 AvgOfG     448.841		 StDv       3.844		 95% ConfInt     448.073     449.61
+ R  46		 G   4		 BestInG     457.429		 AvgOfG      449.69		 StDv       3.756		 95% ConfInt     448.939    450.441
+ R  46		 G   5		 BestInG     457.429		 AvgOfG     451.544		 StDv        4.45		 95% ConfInt     450.654    452.434
+ R  46		 G   6		 BestInG     457.429		 AvgOfG     453.427		 StDv       4.519		 95% ConfInt     452.523    454.331
+ R  46		 G   7		 BestInG     457.429		 AvgOfG     455.189		 StDv       3.975		 95% ConfInt     454.393    455.984
+ R  46		 G   8		 BestInG     457.429		 AvgOfG     456.561		 StDv       2.764		 95% ConfInt     456.009    457.114
+ R  46		 G   9		 BestInG     457.429		 AvgOfG     456.904		 StDv        2.41		 95% ConfInt     456.422    457.386
+46     1 0000111111   RawFitness
+               63.0      470.429
+
+ R  47		 G   0		 BestInG       470.0		 AvgOfG     446.696		 StDv       5.728		 95% ConfInt      445.55    447.841
+ R  47		 G   1		 BestInG       470.0		 AvgOfG     447.559		 StDv       4.534		 95% ConfInt     446.652    448.465
+ R  47		 G   2		 BestInG     469.857		 AvgOfG     448.439		 StDv       4.592		 95% ConfInt      447.52    449.357
+ R  47		 G   3		 BestInG       470.0		 AvgOfG     449.743		 StDv       4.989		 95% ConfInt     448.745    450.741
+ R  47		 G   4		 BestInG     470.143		 AvgOfG     451.269		 StDv       6.409		 95% ConfInt     449.987     452.55
+ R  47		 G   5		 BestInG     470.286		 AvgOfG      451.12		 StDv         8.9		 95% ConfInt      449.34      452.9
+ R  47		 G   6		 BestInG     470.286		 AvgOfG     454.081		 StDv        6.59		 95% ConfInt     452.763    455.399
+ R  47		 G   7		 BestInG     470.429		 AvgOfG     456.417		 StDv       6.348		 95% ConfInt     455.147    457.687
+ R  47		 G   8		 BestInG     470.286		 AvgOfG     457.369		 StDv       6.703		 95% ConfInt     456.028    458.709
+ R  47		 G   9		 BestInG     470.429		 AvgOfG       457.6		 StDv       7.071		 95% ConfInt     456.186    459.014
+47     7 0000111111   RawFitness
+               63.0      470.429
+
+ R  48		 G   0		 BestInG       470.0		 AvgOfG     445.336		 StDv       6.045		 95% ConfInt     444.127    446.545
+ R  48		 G   1		 BestInG     470.429		 AvgOfG     447.057		 StDv       2.848		 95% ConfInt     446.488    447.627
+ R  48		 G   2		 BestInG     470.143		 AvgOfG       448.0		 StDv       3.723		 95% ConfInt     447.255    448.745
+ R  48		 G   3		 BestInG     470.286		 AvgOfG     448.606		 StDv       4.126		 95% ConfInt      447.78    449.431
+ R  48		 G   4		 BestInG     470.143		 AvgOfG     448.843		 StDv         3.6		 95% ConfInt     448.123    449.563
+ R  48		 G   5		 BestInG     464.571		 AvgOfG      449.08		 StDv       4.745		 95% ConfInt     448.131    450.029
+ R  48		 G   6		 BestInG     464.571		 AvgOfG       450.8		 StDv       4.686		 95% ConfInt     449.863    451.737
+ R  48		 G   7		 BestInG     464.571		 AvgOfG     451.429		 StDv       4.847		 95% ConfInt     450.459    452.398
+ R  48		 G   8		 BestInG     464.571		 AvgOfG     453.876		 StDv       4.944		 95% ConfInt     452.887    454.864
+ R  48		 G   9		 BestInG     464.571		 AvgOfG     456.033		 StDv       4.962		 95% ConfInt      455.04    457.025
+48     1 0000111111   RawFitness
+               63.0      470.429
+
+ R  49		 G   0		 BestInG     470.286		 AvgOfG     445.611		 StDv       7.414		 95% ConfInt     444.129    447.094
+ R  49		 G   1		 BestInG     470.286		 AvgOfG     448.436		 StDv       6.023		 95% ConfInt     447.231     449.64
+ R  49		 G   2		 BestInG     470.286		 AvgOfG     450.076		 StDv       7.198		 95% ConfInt     448.636    451.515
+ R  49		 G   3		 BestInG     470.286		 AvgOfG     449.283		 StDv      10.353		 95% ConfInt     447.212    451.353
+ R  49		 G   4		 BestInG     470.429		 AvgOfG       451.9		 StDv       8.648		 95% ConfInt      450.17     453.63
+ R  49		 G   5		 BestInG     470.429		 AvgOfG     455.059		 StDv      11.395		 95% ConfInt      452.78    457.338
+ R  49		 G   6		 BestInG     470.429		 AvgOfG      459.36		 StDv      12.671		 95% ConfInt     456.826    461.894
+ R  49		 G   7		 BestInG     470.429		 AvgOfG     464.534		 StDv      10.618		 95% ConfInt     462.411    466.658
+ R  49		 G   8		 BestInG     470.429		 AvgOfG     468.553		 StDv       5.903		 95% ConfInt     467.372    469.734
+ R  49		 G   9		 BestInG     470.429		 AvgOfG     470.057		 StDv       2.605		 95% ConfInt     469.536    470.578
+49     4 0000111111   RawFitness
+               63.0      470.429
+
+ R  50		 G   0		 BestInG     470.143		 AvgOfG     446.333		 StDv       8.494		 95% ConfInt     444.634    448.032
+ R  50		 G   1		 BestInG     470.286		 AvgOfG     447.926		 StDv       4.965		 95% ConfInt     446.933    448.919
+ R  50		 G   2		 BestInG     470.286		 AvgOfG     448.846		 StDv       8.109		 95% ConfInt     447.224    450.468
+ R  50		 G   3		 BestInG     470.429		 AvgOfG      451.09		 StDv        8.38		 95% ConfInt     449.414    452.766
+ R  50		 G   4		 BestInG     470.286		 AvgOfG     451.951		 StDv       8.751		 95% ConfInt     450.201    453.702
+ R  50		 G   5		 BestInG     470.429		 AvgOfG     453.031		 StDv       8.442		 95% ConfInt     451.343     454.72
+ R  50		 G   6		 BestInG     470.429		 AvgOfG     456.447		 StDv       9.902		 95% ConfInt     454.467    458.428
+ R  50		 G   7		 BestInG     470.429		 AvgOfG     457.364		 StDv      10.479		 95% ConfInt     455.268     459.46
+ R  50		 G   8		 BestInG     470.429		 AvgOfG      458.84		 StDv      10.824		 95% ConfInt     456.675    461.005
+ R  50		 G   9		 BestInG     470.429		 AvgOfG     463.487		 StDv        9.59		 95% ConfInt     461.569    465.405
+50     3 0000111111   RawFitness
+               63.0      470.429
+
+B        0000111111   RawFitness
+               63.0      470.429
+
+Gen            AvgOfAvgFit            AvgOfBestFit            StDvAvg            StDvAvgBst           95%ConfIntBst
+0              446.16              469.5               0.81                2.71                468.73              470.27              
+1              448.15              469.67              0.87                2.38                468.99              470.34              
+2              449.17              469.78              1.15                2.29                469.13              470.43              
+3              450.45              469.15              1.67                3.57                468.14              470.16              
+4              451.91              468.95              2.4                 3.67                467.92              469.99              
+5              453.62              468.87              3.22                3.73                467.82              469.93              
+6              455.82              468.85              4.09                3.77                467.78              469.91              
+7              457.99              468.63              4.75                4.07                467.48              469.78              
+8              460.29              468.51              5.56                4.32                467.29              469.73              
+9              462.32              468.51              5.63                4.32                467.29              469.74              
+
+Best Each Run: Average		470.4               Best Each Run: StDv	0.08                Best Each Run: 95%ConInt	470.38              470.42              
+
+A Best of Run Individual:	0000111111          How many Runs it's the best:	43.0                
+A Best of Run Individual:	0000100111          How many Runs it's the best:	1.0                 
+A Best of Run Individual:	0000111101          How many Runs it's the best:	1.0                 
+A Best of Run Individual:	0000101101          How many Runs it's the best:	1.0                 
+A Best of Run Individual:	0000110101          How many Runs it's the best:	1.0                 
+A Best of Run Individual:	0000111011          How many Runs it's the best:	3.0                 
